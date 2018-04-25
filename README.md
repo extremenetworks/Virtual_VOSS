@@ -1,6 +1,8 @@
 # Virtual VOSS Images
 Virtual VOSS images are provided to be used in virtualized environments such as GNS3.
 
+```Note: The switch passwords are user/pass rwa/rwa .```
+
 
 ### Feature and Functionality Note
 Virtual VOSS installations are not officially supported by GTAC and not all features and functions are implemented.
