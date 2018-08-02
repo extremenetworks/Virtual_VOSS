@@ -14,10 +14,11 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 * [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
 
 ## VOSS GNS3 import template file.
-* [GNS3 Template File for VOSS VM](vossvm-v7_0_GA.gns3a?raw=true)
+* [GNS3 Template File for VOSS VM](VOSSGNS3.gns3a?raw=true)
 
 ## VOSS IMG Files
 * [VOSS 7.0 IMG](https://stackingtool.extremenetworks.com/github/VOSSGNS3.7.0.0.0.img)
+* [VOSS 7.1 IMG](https://stackingtool.extremenetworks.com/github/VOSSGNS3.7.1.0.0.qcow2)
 
 
 
