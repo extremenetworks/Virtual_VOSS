@@ -10,8 +10,9 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 # VOSS GNS3 Install Guides
 * [GNS3 with VOSS-VM Install Guide (Windows)](GNS3_VOSS-VM_Guide.md)
 
-## VOSS 7.0 User Guides
+## VOSS User Guides
 * [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
+* [VOSS 7.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/71x/9035528_CLIRefVOSS_7.1_CRG.pdf)
 
 ## VOSS GNS3 import template file.
 * [GNS3 Template File for VOSS VM](VOSSGNS3.gns3a?raw=true)
