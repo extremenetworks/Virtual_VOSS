@@ -18,15 +18,15 @@ This Guide will assist you in setting up GNS3 V2 and above to work with VOSS-VM 
  		*  https://www.gns3.com/software/download or https://github.com/GNS3/gns3-gui/releases
 
 * GNS3 Template File for VOSS VM  -- This is used to import VOSS into GNS3
-	* vossvm-v7_0_GA.gns3a
-		* https://github.com/extremenetworks/Virtual_VOSS/blob/master/vossvm-v7_0_GA.gns3a?raw=true
+	* VOSSGNS3.gns3a
+		* https://raw.githubusercontent.com/extremenetworks/Virtual_VOSS/master/VOSSGNS3.gns3a
 
 ------
 ### Getting Started:
 
 #### Step 1: Download GNS3 Template File
 * Download GNS3 Template File for VOSS VM.  --  You will need this in Step 8  
-	* https://github.com/extremenetworks/Virtual_VOSS/blob/master/vossvm-v7_0_GA.gns3a?raw=true  *"right-click save link as"*
+	* https://raw.githubusercontent.com/extremenetworks/Virtual_VOSS/master/VOSSGNS3.gns3a  *"right-click save link as"*
 
 #### Step 2: VMware Player
 
