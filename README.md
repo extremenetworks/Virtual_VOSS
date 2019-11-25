@@ -11,15 +11,21 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 * [GNS3 with VOSS-VM Install Guide (Windows)](GNS3_VOSS-VM_Guide.md)
 
 ## VOSS User Guides
-* [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
+* [VOSS 8.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/81x/9035871_CLIRefVOSS_8.1_CRG.pdf)
 * [VOSS 7.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/71x/9035528_CLIRefVOSS_7.1_CRG.pdf)
+* [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
 
 ## VOSS GNS3 import template file.
-* [GNS3 Template File for VOSS VM](VOSSGNS3.gns3a?raw=true)
+* [GNS3 v8.x Template File for VOSS VM](VOSSGNS3.8.X.gns3a?raw=true)
+* [GNS3 v7.X Template File for VOSS VM](VOSSGNS3.7.X.gns3a?raw=true)
+
 
 ## VOSS IMG Files
-* [VOSS 7.0 IMG](https://stackingtool.extremenetworks.com/github/VOSSGNS3.7.0.0.0.img)
-* [VOSS 7.1 IMG](https://stackingtool.extremenetworks.com/github/VOSSGNS3.7.1.0.0.qcow2)
+* [VOSS 8.1 IMG](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2)
+* [VOSS 7.1 IMG](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.1.0.0.qcow2)
+* [VOSS 7.0 IMG](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.0.0.0.img)
+
+
 
 
 

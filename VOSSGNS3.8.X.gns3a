@@ -1,0 +1,52 @@
+{
+    "name": "VOSS VM",
+    "category": "multilayer_switch",
+    "description": "The VOSS VM is a software emulation of a VSP8K switch.",
+    "vendor_name": "Extreme Networks",
+    "vendor_url": "http://www.extremenetworks.com",
+    "documentation_url": "http://www.extremenetworks.com/support/documentation",
+    "product_name": "VOSS_VM",
+    "registry_version": 1,
+    "status": "experimental",
+    "maintainer": "Extreme Networks",
+    "maintainer_email": "voss@extremenetworks.com",
+    "usage": "Boot up and login is rwa/rwa",
+    "symbol": ":/symbols/multilayer_switch.svg",
+    "first_port_name": "Mgmt",
+    "port_name_format": "1/{port1}",
+    "qemu":
+    {
+        "adapter_type": "e1000",
+        "adapters": 9,
+        "ram": 2048,
+        "hda_disk_interface": "ide",
+        "arch": "x86_64",
+        "console_type": "telnet",
+        "boot_priority": "dc",
+        "kvm": "allow",
+        "options": "-nographic"
+    },
+
+    "images":
+    [
+        {
+            "filename": "VOSSGNS3.8.1.0.0.qcow2",
+            "version": "v8.1.0.0",
+            "md5sum": "6b46fd54999a4cd2369440809ccc5099",
+            "filesize": 311820288,
+			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2"
+        }
+    ],
+
+    "versions":
+    [
+        {
+            "name": "v8.1.0.0",
+            "images":
+            {
+                "hda_disk_image": "VOSSGNS3.8.1.0.0.qcow2"
+            }
+        }
+    ]
+
+}
