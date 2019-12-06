@@ -7,6 +7,15 @@ Virtual VOSS images are provided to be used in virtualized environments such as 
 ### Feature and Functionality Note
 Virtual VOSS installations are not officially supported by GTAC and not all features and functions are implemented.
 
+---
+***Hardware requirements for 8.1 and onwards:***  
+```Note: The GNS3 template files include these changes.```
+1.	VOSS GNS3 image is 64-bit OS image. User has to select 64-bit OS instead of 32-bit OS while launching the VM.
+2.	RAM requirement is now 2048MB
+3.	For upgrading to VOSS 8.1 using .tgz file from VOSS VM CLI, VM option has to be modified to 64-bit and RAM has to be increased to 2048 MB, then boot the VOSS VM and upgrade to 8.1 from CLI.
+---
+
+
 # VOSS GNS3 Install Guides
 * [GNS3 with VOSS-VM Install Guide (Windows)](GNS3_VOSS-VM_Guide.md)
 
