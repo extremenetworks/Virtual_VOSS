@@ -30,9 +30,10 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 
 
 ## VOSS Image files
-* [VOSS 8.1](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2)
-* [VOSS 7.1](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.1.0.0.qcow2)
-* [VOSS 7.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.0.0.0.img)
+* [VOSS 8.1.5](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.5.0.qcow2)
+* [VOSS 8.1.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2)
+* [VOSS 7.1.x](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.1.0.0.qcow2)
+* [VOSS 7.0.x](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.0.0.0.img)
 
 
 
