@@ -20,6 +20,7 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 * [GNS3 with VOSS-VM Install Guide (Windows)](GNS3_VOSS-VM_Guide.md)
 
 ## VOSS User Guides
+* [VOSS 8.2 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/82x/CLIRefVOSS_8.2_CRG.pdf)
 * [VOSS 8.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/81x/9035871_CLIRefVOSS_8.1_CRG.pdf)
 * [VOSS 7.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/71x/9035528_CLIRefVOSS_7.1_CRG.pdf)
 * [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
@@ -30,6 +31,7 @@ Virtual VOSS installations are not officially supported by GTAC and not all feat
 
 
 ## VOSS Image files
+* [VOSS 8.2.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.2.0.0.qcow2)
 * [VOSS 8.1.5](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.5.0.qcow2)
 * [VOSS 8.1.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2)
 * [VOSS 7.1.x](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.7.1.0.0.qcow2)
