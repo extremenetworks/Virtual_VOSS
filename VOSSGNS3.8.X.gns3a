@@ -30,6 +30,13 @@
     "images":
     [
         {
+            "filename": "VOSSGNS3.8.4.0.0.qcow2",
+            "version": "v8.4.0.0",
+            "md5sum": "f457e7da3c1dec50670624c421333ef3",
+            "filesize": 386203648,
+			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.4.0.0.qcow2"
+        },
+        {
             "filename": "VOSSGNS3.8.3.0.0.qcow2",
             "version": "v8.3.0.0",
             "md5sum": "e1c789e439c5951728e349cf44690230",
@@ -44,23 +51,31 @@
 			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.2.0.0.qcow2"
         },
         {
-            "filename": "VOSSGNS3.8.1.0.0.qcow2",
-            "version": "v8.1.0.0",
-            "md5sum": "6b46fd54999a4cd2369440809ccc5099",
-            "filesize": 311820288,
-			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2"
-        },
-        {
             "filename": "VOSSGNS3.8.1.5.0.qcow2",
             "version": "v8.1.5.0",
             "md5sum": "dff95f67fc04f82f627209ff7b7b3860",
             "filesize": 331087872,
 			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.5.0.qcow2"
+        },
+        {
+            "filename": "VOSSGNS3.8.1.0.0.qcow2",
+            "version": "v8.1.0.0",
+            "md5sum": "6b46fd54999a4cd2369440809ccc5099",
+            "filesize": 311820288,
+			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.1.0.0.qcow2"
         }
+
     ],
 
     "versions":
     [
+        {
+            "name": "v8.4.0.0",
+            "images":
+            {
+                "hda_disk_image": "VOSSGNS3.8.4.0.0.qcow2"
+            }
+        },
         {
             "name": "v8.3.0.0",
             "images":
@@ -76,19 +91,19 @@
             }
 		},
         {
-            "name": "v8.1.0.0",
-            "images":
-            {
-                "hda_disk_image": "VOSSGNS3.8.1.0.0.qcow2"
-            }
-		},
-        {
             "name": "v8.1.5.0",
             "images":
             {
                 "hda_disk_image": "VOSSGNS3.8.1.5.0.qcow2"
             }
-        }
+        },
+		{
+            "name": "v8.1.0.0",
+            "images":
+            {
+                "hda_disk_image": "VOSSGNS3.8.1.0.0.qcow2"
+            }
+		}
     ]
 
 }
