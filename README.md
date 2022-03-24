@@ -5,7 +5,7 @@ Virtual VOSS images are provided to be used in virtualized environments such as 
 
 
 ### Feature and Functionality Note
-Virtual VOSS installations are not officially supported by GTAC and not all features and functions are implemented.
+Virtual VOSS installations are not officially supported by GTAC and not all features and only control plane features and functions are implemented.
 
 ---
 ***Hardware requirements for 8.1 and onwards:***  
