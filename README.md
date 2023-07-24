@@ -5,7 +5,7 @@ Virtual VOSS images are provided to be used in virtualized environments such as 
 
 
 ### Feature and Functionality Note
-Virtual VOSS installations are not officially supported by GTAC and not all features and only control plane features and functions are implemented.
+Virtual VOSS installations are not officially supported by GTAC. Starting with the 8.10.1.0 version, the hardware is based on based on 5520-24T Universal Switch. Also, in addition to control plane features, there will be limited data plane capabilities, equivalent to what is supported on ExtremeAccess Platform 1400 (XA1400).
 
 ---
 ***Hardware requirements for 8.1 and onwards:***  
