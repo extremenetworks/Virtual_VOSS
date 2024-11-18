@@ -1,0 +1,86 @@
+{
+    "name": "FabricEngine VM",
+    "category": "multilayer_switch",
+    "description": "The FabricEngine VM is a software emulation of a FabricEngine switch.",
+    "vendor_name": "Extreme Networks",
+    "vendor_url": "http://www.extremenetworks.com",
+    "documentation_url": "http://www.extremenetworks.com/support/documentation",
+    "product_name": "FabricEngine_VM",
+    "registry_version": 1,
+    "status": "experimental",
+    "maintainer": "Extreme Networks",
+    "maintainer_email": "voss@extremenetworks.com",
+    "usage": "Boot up and login is rwa/rwa",
+    "symbol": "ethernet_switch.svg",
+    "first_port_name": "Mgmt",
+    "port_name_format": "1/{port1}",
+    "qemu":
+    {
+        "adapter_type": "e1000",
+        "adapters": 33,
+        "ram": 2048,
+        "hda_disk_interface": "ide",
+        "arch": "x86_64",
+        "console_type": "telnet",
+        "boot_priority": "dc",
+        "kvm": "allow",
+        "options": "-nographic -cpu host -enable-kvm"
+    },
+    "custom_adapters": 
+        [
+            {
+                "adapter_number": 25,
+                "port_name": "1/25/1"
+            },
+            {
+                "adapter_number": 26,
+                "port_name": "1/25/2"
+            },
+            {
+                "adapter_number": 27,
+                "port_name": "1/25/3"
+            },
+            {
+                "adapter_number": 28,
+                "port_name": "1/25/4"
+            },
+            {
+                "adapter_number": 29,
+                "port_name": "1/26/1"
+            },
+            {
+                "adapter_number": 30,
+                "port_name": "1/26/2"
+            },
+            {
+                "adapter_number": 31,
+                "port_name": "1/26/3"
+            },
+            {
+                "adapter_number": 32,
+                "port_name": "1/26/4"
+            }
+        ],
+
+    "images":
+    [
+        {
+            "filename": "FEGNS3.9.1.0.0.qcow2",
+            "version": "v9.1.0.0",
+            "md5sum": "e143a3290cb6a3a7b0cce4b73816ab64",
+            "filesize": 432406528
+        }
+    ],
+
+    "versions":
+    [
+        {
+            "name": "v9.1.0.0",
+            "images":
+            {
+                "hda_disk_image": "FEGNS3.9.1.0.0.qcow2"
+            }
+        }
+    ]
+
+}
