@@ -20,14 +20,8 @@ Virtual VOSS installations are not officially supported by GTAC. Starting with t
 * [GNS3 with VOSS-VM Install Guide (Windows)](GNS3_VOSS-VM_Guide.md)
 
 ## VOSS User Guides
-* [VOSS 9.1 Command Reference guide](https://documentation.extremenetworks.com/Fabric%20Engine%20v9.1%20Command%20References/GUID-4DE9B15E-1B09-4D07-A099-950710BFCF2C.shtml)
-* [VOSS 8.8 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/88/VOSSUserGuide/GUID-E23524A3-91F9-4FE2-A48E-5ABB01FFE054.shtml)
-* [VOSS 8.4 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/84/VOSSUserGuide/GUID-E23524A3-91F9-4FE2-A48E-5ABB01FFE054.shtml)
-* [VOSS 8.3 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/83/clirefvoss/GUID-E78AE4BD-3612-43C9-ADAD-6DD4C95BCE48.shtml)
-* [VOSS 8.2 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/82x/CLIRefVOSS_8.2_CRG.pdf)
-* [VOSS 8.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/81x/9035871_CLIRefVOSS_8.1_CRG.pdf)
-* [VOSS 7.1 Command Reference guide](https://documentation.extremenetworks.com/VOSS/SW/71x/9035528_CLIRefVOSS_7.1_CRG.pdf)
-* [VOSS 7.0 Command Reference guide](http://documentation.extremenetworks.com/VOSS/SW/70x/9035339_CLIRefVOSS_7.0_CRG.pdf)
+* [User guide](https://supportdocs.extremenetworks.com/support/documentation/fabric-engine-document-collections/)
+
 
 ## VOSS GNS3 import template file.
 * [GNS3 v9.x Template File for VOSS VM](VOSSGNS3-V9.X.gns3a?raw=true)
@@ -36,7 +30,8 @@ Virtual VOSS installations are not officially supported by GTAC. Starting with t
 
 
 ## VOSS Image files
-* [VOSS 9.1.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3-V9.X.qcow2)
+* [VOSS 9.2.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.2.0.0.qcow2)
+* [VOSS 9.1.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.1.0.0.qcow2)
 * [VOSS 8.10.1](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.10.1.0.qcow2)
 * [VOSS 8.8.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.8.0.0.qcow2)
 * [VOSS 8.4.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/VOSSGNS3.8.4.0.0.qcow2)

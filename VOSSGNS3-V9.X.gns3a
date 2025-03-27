@@ -65,16 +65,31 @@
     "images":
     [
         {
+            "filename": "FEGNS3.9.2.0.0.qcow2",
+            "version": "v9.2.0.0",
+            "md5sum": "51a3eb106d7095b54708816305e7bf14",
+            "filesize": 433520640,
+			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.2.0.0.qcow2"
+        },
+		{
             "filename": "FEGNS3.9.1.0.0.qcow2",
             "version": "v9.1.0.0",
             "md5sum": "e143a3290cb6a3a7b0cce4b73816ab64",
             "filesize": 432406528
+			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.1.0.0.qcow2"
         }
     ],
 
     "versions":
     [
         {
+            "name": "v9.2.0.0",
+            "images":
+            {
+                "hda_disk_image": "FEGNS3.9.2.0.0.qcow2"
+            }
+        },
+		{
             "name": "v9.1.0.0",
             "images":
             {
