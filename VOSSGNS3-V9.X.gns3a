@@ -75,7 +75,7 @@
             "filename": "FEGNS3.9.1.0.0.qcow2",
             "version": "v9.1.0.0",
             "md5sum": "e143a3290cb6a3a7b0cce4b73816ab64",
-            "filesize": 432406528
+            "filesize": 432406528,
 			"direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.1.0.0.qcow2"
         }
     ],
