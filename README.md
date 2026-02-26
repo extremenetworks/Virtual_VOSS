@@ -30,6 +30,7 @@ Virtual VOSS installations are not officially supported by GTAC. Starting with t
 
 
 ## VOSS Image files
+* [VOSS 9.3.1](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.3.1.0.qcow2)
 * [VOSS 9.3.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.3.0.0.qcow2)
 * [VOSS 9.2.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.2.0.0.qcow2)
 * [VOSS 9.1.0](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_VOSS/FEGNS3.9.1.0.0.qcow2)
@@ -53,7 +54,7 @@ The software is provided “as is” and Extreme Networks has no obligation to p
 Please visit us on [The Hub](https://community.extremenetworks.com/extreme) if you have any questions or encounter issues.
 
 ## License
-Copyright© 2018, Extreme Networks. All rights reserved.
+Copyright© 2026, Extreme Networks. All rights reserved.
 
 By accessing this software, you agree to use the software solely to:
 
